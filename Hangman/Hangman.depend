@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585068799 source:d:\my prog\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
